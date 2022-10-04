@@ -30,7 +30,7 @@ export class MainPageComponent {
     poder:2000
   }
 
-  //constructor
+  //constructor segundo commit
 
   
 
